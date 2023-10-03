@@ -5,8 +5,8 @@ packer and terraform are binaries, and git gets compiled from source.
 
 
 
-#Dockerfile flow
---------------------
+# Dockerfile flow
+
 
 ```mermaid
 flowchart TD
