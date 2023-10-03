@@ -5,6 +5,9 @@ packer and terraform are binaries, and git gets compiled from source.
 
 
 
+#Dockerfile flow
+--------------------
+
 ```mermaid
 flowchart TD
     A[Start] -->|get arm64v8 for base| B(get for packer, tf binaries for arm64)
@@ -16,3 +19,4 @@ flowchart TD
 
 ```
     
+---------------------
